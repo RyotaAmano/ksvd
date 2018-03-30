@@ -4,7 +4,7 @@ from sklearn.linear_model import OrthogonalMatchingPursuit
 
 class KSVD:
     def __init__(self,rank,num_of_NZ=None,func_svd=False,
-                 max_iter = 10,max_tol = 1e-12):
+                 max_iter = 20,max_tol = 1e-12):
         self.rank = rank
         self.max_iter = max_iter
         self.max_tol = max_tol
