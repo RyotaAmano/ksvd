@@ -1,7 +1,7 @@
 # ksvd
-
-==================================
+```
 A K-SVD implementation written in Python
+```
 
 Requirements
 ---------------------------------
