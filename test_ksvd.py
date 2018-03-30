@@ -40,4 +40,4 @@ def ksvd_image(filename,rank): # image compression
 
 
 #A,X = ksvd_random_signal()
-#ksvd_image('Lenna.jpg',50)
+#ksvd_image('Lenna.jpg',100)
