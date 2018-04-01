@@ -18,8 +18,8 @@ and Approximate svd to estimate dictionary more quickly than normal method.
 
 Feature
 ----------------------------------
-*Approximate k-svd (Default)
-*Normal k-svd (using np.linalg.svd)
+(*)Approximate k-svd (Default)
+(*)Normal k-svd (using np.linalg.svd)
 
 
 Usage  
