@@ -12,14 +12,14 @@ Python 3 or more
 About
 ----------------------------------
 This is a k-svd implementation written in Python.
-*This k-svd uses OMP(Othogonal Matching Pursuit to estimate sparse coefficients
+This k-svd uses OMP(Othogonal Matching Pursuit) to estimate sparse coefficients
 and Approximate svd to estimate dictionary more quickly than normal method.
 
 
 Feature
 ----------------------------------
-Approximate k-svd (Default)
-normal k-svd (using np.linalg.svd)
+*Approximate k-svd (Default)
+*Normal k-svd (using np.linalg.svd)
 
 
 Usage  
