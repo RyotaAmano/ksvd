@@ -1,7 +1,7 @@
 # ksvd
-```
+
 A K-SVD implementation written in Python
-```
+
 
 Requirements
 ---------------------------------
@@ -12,8 +12,8 @@ Python 3 or more
 About
 ----------------------------------
 This is a k-svd implementation written in Python.
-This k-svd uses OMP(Othogonal Matching Pursuit to estimate sparse coefficients
-and Approximate svd to estimate dictionary more quickly than normal method
+*This k-svd uses OMP(Othogonal Matching Pursuit to estimate sparse coefficients
+and Approximate svd to estimate dictionary more quickly than normal method.
 
 
 Feature
@@ -40,4 +40,4 @@ X: Sparse = [rank, n_samples]
 """
 ```
 
-'test_ksvd.py' contains two demo-programs using k-svd
+'test_ksvd.py' contains two demo-programs using k-svd.
