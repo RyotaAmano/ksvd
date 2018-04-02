@@ -3,7 +3,6 @@ from scipy import linalg
 from ksvd import KSVD
 from PIL import Image
 import os
-import sys
 
 def ksvd_random_signal(): # random signal test
     A = np.random.randn(30, 60)
